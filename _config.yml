@@ -17,7 +17,7 @@ locale: "ja-JP"
 title: qLethonのブログ(仮)
 email: qLethon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  何に使うのこのブログ
+  競プロとか(たぶん)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pu__Ne
