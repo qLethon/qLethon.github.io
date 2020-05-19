@@ -14,8 +14,7 @@ Masterにもなれました．
 ![rating](https://qLethon.github.io/images/CodinGame%20SPRING%20CHALLENGE%202020/rating.png)
 
 ## ゲームルール
-tuskammoさんのブログを読むと良いです．
-https://tsukammo.hatenablog.com/entry/2020/05/08/064319
+[tuskammoさんのブログ](https://tsukammo.hatenablog.com/entry/2020/05/08/064319)を読むと良いです．
 
 ## 基本的な方針
 - 各pacからdfsする(id順)
@@ -26,7 +25,7 @@ https://tsukammo.hatenablog.com/entry/2020/05/08/064319
 
 ## コンテスト中に考えたこと
 
-コンテスト中のメモがhackmd(https://hackmd.io/@qLethon/HkdH2oVcI)にあるので，このメモを見ながら自分でコメントしていきます．  
+コンテスト中のメモが[hackmd](https://hackmd.io/@qLethon/HkdH2oVcI)にあるので，このメモを見ながら自分でコメントしていきます．  
 コンテストの途中で上から書くようにしたので一番上は途中からになっています．時系列順で最初の部分は真ん中くらいにあります．
 
 ### 改善
