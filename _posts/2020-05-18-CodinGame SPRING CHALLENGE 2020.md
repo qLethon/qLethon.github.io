@@ -151,6 +151,8 @@ turn % 10 == 5の時にSPEEDを使うようにずらすとこの効果を最大�
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">doubleがintにキャストされて情報が無に帰していた</p>&mdash; 真紅色に染まるぷーん (@pu__Ne) <a href="https://twitter.com/pu__Ne/status/1261870992135081985?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+  
+  
 > ルートがなかったらvisited = trueして探索
 > - 点が低かったらとかの方が良さそう？
 > - それでもなかったら重心とかに移動(一番近いペレットでもいい)
