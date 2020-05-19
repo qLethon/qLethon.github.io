@@ -4,10 +4,13 @@ title:  "CodinGame SPRING CHALLENGE 2020参加記(じゃんけんパックマン
 tags: [competitive programming, CodinGame]
 ---
 
-去年のcode a la mode以来2回目の参加で，世界52位，日本9位でした．
-![rank](https://qLethon.github.io/images/CodinGame%20SPRING CHALLENGE%202020/rank.png)
+去年のcode a la mode以来2回目の参加で，世界52位，日本9位でした．  
+
+![rank](https://qLethon.github.io/images/CodinGame%20SPRING%20CHALLENGE%202020/rank.png)  
+
 code a la modeは世界383位でゴールド止まりだったので成長です．  
 Masterにもなれました．
+
 ![rating](https://qLethon.github.io/images/CodinGame%20SPRING%20CHALLENGE%202020/rating.png)
 
 ## ゲームルール
@@ -318,4 +321,6 @@ k歩目のスコアをkで割ることで遠くのものほどスコアが低く
 ## あとがき
 
 今回こどげに参加して，アルゴと比べるとまだ未成熟だなと思いました．  
-アルゴは蟻本が出ていてAtCoder Problemsのようなサイトもあるし，トッププレイヤーでなくともかなりそれ専用の精進を積んでいます．CodinGameを中心に生活をしていて精進をしている人は今回のコンテストだと上位20人くらいなのかなと勝手に思いました．なので，初心者でもまだわんちゃん上位に食い込めるという感じがしました．レジェンドになりたい君、今すぐCodinGameを始めよう！([ここ](https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2020)で私のbotと対戦できます)
+アルゴは蟻本が出ていてAtCoder Problemsのようなサイトもあるし，トッププレイヤーでなくともかなりそれ専用の精進を積んでいます．CodinGameを中心に生活をしていて精進をしている人は今回のコンテストだと上位20人くらいなのかなと勝手に思いました．(過去問を解いてそれなりに精進している人はもっといると思うけど)．なので，初心者でもまだわんちゃん上位に食い込めるという感じがしました．
+
+レジェンドになりたい君、今すぐCodinGameを始めよう！([ここ](https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2020)で私のbotと対戦できます)
