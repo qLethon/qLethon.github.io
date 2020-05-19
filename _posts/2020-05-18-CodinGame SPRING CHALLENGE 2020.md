@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CodinGame SPRING CHALLENGE 2020参加記(じゃんけんパックマン)"
+title:  "CodinGame SPRING CHALLENGE 2020に参加しました(じゃんけんパックマン)"
 tags: [competitive programming, CodinGame]
 ---
 
